@@ -1,14 +1,14 @@
 # Smart Glasses for the Blind AI
 
-## About the Project
+## About
 
-This project was developed to help visually impaired people identify objects around them using AI and Computer Vision.
+This project was developed as part of a team project to help visually impaired people recognize objects around them using AI.
 
-The system uses an ESP32-CAM to stream live video to a Python application. A YOLO model detects objects in real time, then the detected object names are converted into speech so the user can know what's around them.
+The system uses an ESP32-CAM to stream live video to a Python application. The video is processed using a YOLO object detection model, then the detected objects are converted into voice feedback so the user can know what is around them.
 
-## My Role
+As the team leader, I was involved in planning the project, coordinating the work between team members, testing the system, and helping in both the AI and software development parts.
 
-This was a team project, and I worked as the team leader. I was involved in almost every part of the project, including planning, integrating the different components, testing, and helping with both the AI and software development.
+---
 
 ## Technologies
 
@@ -19,14 +19,17 @@ This was a team project, and I worked as the team leader. I was involved in almo
 - ESP32-CAM
 - pyttsx3
 
-## Current Features
+---
+
+## Features
 
 - Real-time object detection
-- Live camera streaming
+- Live video streaming
 - Voice feedback
 - Automatic camera reconnection
-- Photo capture
+- Capture images
+- Lightweight system for embedded devices
 
-## Future Improvements
+---
 
-I'm planning to continue improving this project by adding features like face recognition, OCR, currency recognition, and GPS navigation.
+## Project Images
