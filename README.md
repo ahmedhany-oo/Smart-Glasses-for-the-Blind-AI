@@ -60,7 +60,7 @@ This project was developed as a team project, and I worked as the team leader. I
 
 | Detection 1 | Detection 2 |
 |------------|-------------|
-| ![](images/Detection.png) | ![](images/Detection2.png) |
+| ![](images/Software Screenshot 1.png) | ![](images/Software Screenshot 2.png) |
 
 ### Final Results 
 
