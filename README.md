@@ -100,3 +100,15 @@ This project helped me gain practical experience with Computer Vision, object de
 - Currency recognition
 - GPS navigation
 - Mobile application
+
+ 
+ ## Team
+
+This project was developed as a team project.
+
+My role:
+- Team Leader
+- AI Development
+- Software Development
+- System Integration
+- Testing
