@@ -60,7 +60,7 @@ This project was developed as a team project, and I worked as the team leader. I
 
 | Detection 1 | Detection 2 |
 |------------|-------------|
-| ![](images/Object%10Detection.png) | ![](images/Object%20Detection%202.png) |
+| ![](images/AI%20SW%20Flowchart.png) | ![](images/Object%20Detection%202.png) |
 
 ### Final Results 
 
