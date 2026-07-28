@@ -1,0 +1,7 @@
+Flask
+opencv-python
+ultralytics
+torch
+pyttsx3
+keyboard
+numpy
