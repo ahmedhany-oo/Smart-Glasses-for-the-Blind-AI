@@ -42,8 +42,22 @@ This project was developed as a team project, and I worked as the team leader. I
 - Voice feedback
 - Automatic camera reconnection
 - Image capture support
+- Automatic camera reconnection
+- Multi-threaded voice feedback
+- Low-latency video streaming
+- Capture snapshots during live detection
 
 ---
+## Project Structure
+
+```text
+├── app.py
+├── esp32/
+├── images/
+├── docs/
+├── models/
+└── requirements.txt
+```
 
 ## Project Images
 ### Final Prototype
